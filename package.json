@@ -1,7 +1,7 @@
 {
   "name": "flipclone",
   "version": "0.1.0",
-  "homepage":"https://github.com/Akshay4611/discoveryDollar-assignment.git",
+  "homepage":"https://github.com/Akshay4611/Discovery-dollar",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
